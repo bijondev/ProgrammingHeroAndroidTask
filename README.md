@@ -11,7 +11,7 @@ The app requires a remote API to fetch course data.
 3. Open `app/src/main/java/com/example/ph_android_task/data/remote/CourseService.kt`.
 4. Update the `ENDPOINT` constant with your Beeceptor URL:
    ```kotlin
-   const val ENDPOINT = "https://YOUR-ENDPOINT.free.beeceptor.com/courses"
+   const val ENDPOINT = "https://mp7eebd038e5f22e63df.free.beeceptor.com/courses"
    ```
 
 ### 2. Build & Run
